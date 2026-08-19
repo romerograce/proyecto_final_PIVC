@@ -8,11 +8,9 @@ de edad (CNN propia, EfficientNet-B0, SSR-Net) lado a lado.
 Uso:
     streamlit run app.py
 
-Se abre automáticamente en el navegador (normalmente localhost:8501).
-Ideal para mostrar en vivo durante la defensa: subís o sacás una foto
-y ves las 3 predicciones comparadas en tiempo real.
+Se abre automáticamente en el navegador.
 
-Requiere (además de lo que ya usan los otros scripts):
+Requiere:
     pip install streamlit
 """
 
@@ -38,8 +36,7 @@ st.set_page_config(
 )
 
 
-# Cachea los modelos para no recargarlos en cada foto -- se cargan
-# una sola vez cuando arranca la app.
+# Cachea los modelos para no recargarlos en cada foto
 @st.cache_resource(show_spinner="Cargando modelos (una sola vez)...")
 def cargar_todos_los_modelos():
     modelos_cnn = cargar_cnn()
