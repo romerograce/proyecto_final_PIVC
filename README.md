@@ -10,6 +10,10 @@ Maestría en Ciencia de Datos e Inteligencia Artificial Aplicada
 
 MCI-509 · Procesamiento de Imágenes y Visión Computacional
 
+## Integrantes del equipo:
+Grace Linda Romero Arancibia
+Guery Sanz Guerrero Selaez
+
 ## Resumen
 
 En diferentes ferias comerciales del país no se cuenta hoy en día con
