@@ -6,6 +6,7 @@ entrenadas sobre UTKFace.
 
 **Universidad Católica Boliviana "San Pablo" — Sede Santa Cruz**
 Maestría en Ciencia de Datos e Inteligencia Artificial Aplicada
+
 MCI-509 · Procesamiento de Imágenes y Visión Computacional
 
 ## Resumen
