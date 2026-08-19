@@ -12,6 +12,7 @@ MCI-509 · Procesamiento de Imágenes y Visión Computacional
 
 ## Integrantes del equipo:
 Grace Linda Romero Arancibia
+
 Guery Sanz Guerrero Selaez
 
 ## Resumen
